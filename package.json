@@ -1,0 +1,42 @@
+{
+  "name": "bigdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack-dev-server --open",
+    "lint": "eslint src/home.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "highcharts": "^11.1.0",
+    "highcharts-react-official": "^3.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1",
+    "react-spinners": "^0.13.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "@babel/preset-react": "^7.22.5",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-loader": "^7.1.5",
+    "css-loader": "^6.8.1",
+    "eslint": "^8.43.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.25.3",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "file-loader": "^6.2.0",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
