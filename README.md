@@ -5,6 +5,7 @@
 ## Households、population vs.gender Bar Chart
 ![picture1](./src/assets/bigdata1.jpg)
 </br>
+</br>
 
 ## Households、population vs.gender Pie Chart
 ![picture2](./src/assets/bigdata2.jpg)
